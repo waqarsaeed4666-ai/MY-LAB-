@@ -1,0 +1,8 @@
+{
+  "name": "Samundri Diagnostic Center & Laboratory",
+  "description": "Online diagnostic test booking, home sample collection, Digital X-Ray, Ultrasound, and WhatsApp reporting for Samundri Diagnostic Center & Laboratory (SMDC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
